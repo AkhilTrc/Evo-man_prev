@@ -1,0 +1,9 @@
+RUN: run status: enemy: 2; fitness: 92.58272016318507; player life: 76; enemy life: 0; time: 151
+
+RUN: run status: enemy: 2; fitness: 92.58272016318507; player life: 76; enemy life: 0; time: 151
+
+RUN: run status: enemy: 2; fitness: 92.58272016318507; player life: 76; enemy life: 0; time: 151
+
+RUN: run status: enemy: 2; fitness: 92.58272016318507; player life: 76; enemy life: 0; time: 151
+
+RUN: run status: enemy: 2; fitness: 92.58272016318507; player life: 76; enemy life: 0; time: 151
